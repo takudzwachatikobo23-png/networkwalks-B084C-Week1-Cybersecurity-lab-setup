@@ -73,6 +73,10 @@ Other things to check first: that the NAT network was created correctly, that th
 - Snapshots make experimenting safe.
 
 ## Screenshots
+<img width="960" height="540" alt="NUMBER4" src="https://github.com/user-attachments/assets/8f7ac2f0-047f-479d-ae77-95b52af4f17a" />
+<img width="960" height="540" alt="NUMBER 3" src="https://github.com/user-attachments/assets/ddb1a30c-5063-4932-a489-d8de1f010f6f" />
+<img width="587" height="388" alt="NUMBER 2" src="https://github.com/user-attachments/assets/c073241c-663d-4d8d-a020-f6d8e6724c94" />
+<img width="960" height="540" alt="NAT" src="https://github.com/user-attachments/assets/ffbcf57f-82ed-41fb-82ab-0e00340fd6d3" />
 
 The `screenshots/` folder contains images of:
 - the NAT Network settings
